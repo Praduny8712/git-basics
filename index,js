@@ -1,0 +1,4 @@
+const age =  24;
+const name = 'Praduny';
+
+const dob = '09/06/2000'
