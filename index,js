@@ -1,5 +1,7 @@
 const age =  24;
 const name = 'Praduny';
+const name = 'john-dev';
+
 
 const dob = '09/06/2000'
 const isAdult = ();
